@@ -13,7 +13,7 @@
             <div class="carousel-item active position-relative" data-bs-interval="2000">
                 <img src="../assets/images/Header.jpg" class="d-block w-100" alt="...">
                 <div class="position-absolute top-150px left-40px">
-                    <div class="fs-1 text-uppercase fw-bold mb-3"> sale </div>
+                    <div class="fs-customize text-uppercase fw-bold mb-3"> sale </div>
                     <div class="fs-4 text-uppercase">
                         access a limited selection
                     </div>
@@ -29,7 +29,7 @@
             <div class="carousel-item active position-relative" data-bs-interval="2000">
                 <img src="../assets/images/Header.jpg" class="d-block w-100" alt="...">
                 <div class="position-absolute top-150px left-40px">
-                    <div class="fs-1 text-uppercase fw-bold mb-3"> sale </div>
+                    <div class="fs-customize text-uppercase fw-bold mb-3"> sale </div>
                     <div class="fs-4 text-uppercase">
                         access a limited selection
                     </div>
@@ -45,7 +45,7 @@
             <div class="carousel-item active position-relative" data-bs-interval="2000">
                 <img src="../assets/images/Header.jpg" class="d-block w-100" alt="...">
                 <div class="position-absolute top-150px left-40px">
-                    <div class="fs-1 text-uppercase fw-bold mb-3"> sale </div>
+                    <div class="fs-customize text-uppercase fw-bold mb-3"> sale </div>
                     <div class="fs-4 text-uppercase">
                         access a limited selection
                     </div>

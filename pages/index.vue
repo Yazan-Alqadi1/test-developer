@@ -8,7 +8,9 @@
 
         <MyJewelry class="mb-5" />
 
-        <SpecialOffers />
+        <SpecialOffers class="mb-5" />
+
+        <NewArrivals />
 
         <MyFooter class="mt-5" />
 

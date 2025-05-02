@@ -104,7 +104,7 @@
 }
 
 .button-position-right {
-    position: absolute;
+    position: absolute !important;
     top: 0;
     bottom: 0;
     z-index: 1;
@@ -114,10 +114,10 @@
     justify-content: center;
     width: 15%;
     padding: 0;
-    color: #fff;
+    color: #fff !important;
     text-align: center;
-    background: 0 0;
-    border: 0;
+    background: 0 0 !important;
+    border: 0 !important;
 }
 
 .button-position-right1 {
@@ -182,5 +182,16 @@
 @media (min-width: 450px) {
     .fs-16px-sp {
         font-size: 16px !important;
+    }
+}
+
+
+.fs-customize {
+    font-size: 13px;
+}
+
+@media (min-width: 450px) {
+    .fs-customize {
+        font-size: 24px !important;
     }
 }

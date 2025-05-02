@@ -28,14 +28,6 @@ export default defineNuxtConfig({
         { charset: 'utf-8' },
         { name: 'viewport', content: 'width=device-width, initial-scale=1' },
         { hid: 'description', name: 'description', content: 'this is description' },
-        { hid: 'keywords', name: 'keywords', content: 'this is keywords' },
-        
-        // Open Graph / Facebook
-        { hid: 'og:type', property: 'og:type', content: 'website' },
-        { hid: 'og:url', property: 'og:url', content: 'https://yourdomain.com' },
-        { hid: 'og:title', property: 'og:title', content: 'عنوان موقعك' },
-        { hid: 'og:description', property: 'og:description', content: 'وصف مختصر لموقعك' },
-        { hid: 'og:image', property: 'og:image', content: 'https://yourdomain.com/image.png' },
         
       ],
       link: [
@@ -43,7 +35,7 @@ export default defineNuxtConfig({
         { rel: 'canonical', href: 'https://yourdomain.com' },
         { rel: 'preconnect', href: 'https://fonts.googleapis.com' },
         { rel: 'preconnect', href: 'https://fonts.gstatic.com' },
-        // arabic font
+        // font
         { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Tajawal:wght@200;300;400;500;700;800;900&display=swap' },
       ],
       script: [

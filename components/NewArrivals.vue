@@ -2,16 +2,16 @@
 
     <div>
 
-        <div class="text-uppercase fw-bold fs-1 ms-5 mb-5"> special offers </div>
+        <div class="text-uppercase fw-bold fs-1 ms-5 mb-5"> new arrivals </div>
 
 
-        <div id="carouselExampleDark2" class="carousel carousel-dark slide">
+        <div id="carouselExampleDark3" class="carousel carousel-dark slide">
             <div class="carousel-indicators position-absolute bottom--40px">
-                <button type="button" data-bs-target="#carouselExampleDark2" data-bs-slide-to="0" class="active"
+                <button type="button" data-bs-target="#carouselExampleDark3" data-bs-slide-to="0" class="active"
                     aria-current="true" aria-label="Slide 1"></button>
-                <button type="button" data-bs-target="#carouselExampleDark2" data-bs-slide-to="1"
+                <button type="button" data-bs-target="#carouselExampleDark3" data-bs-slide-to="1"
                     aria-label="Slide 2"></button>
-                <button type="button" data-bs-target="#carouselExampleDark2" data-bs-slide-to="2"
+                <button type="button" data-bs-target="#carouselExampleDark3" data-bs-slide-to="2"
                     aria-label="Slide 3"></button>
             </div>
             <div class="carousel-inner px-5">
@@ -19,7 +19,7 @@
                     <div class="d-flex justify-content-between">
 
                         <div class="w-22per">
-                            <img src="../assets/images/1.jpg"
+                            <img src="../assets/images/D.png"
                                 class="d-block w-100 shadow-sm border-secondary-subtle border-end border-bottom border-2"
                                 alt="...">
                             <div class="text-center text-secondary">
@@ -32,7 +32,7 @@
                             </div>
                         </div>
                         <div class="w-22per">
-                            <img src="../assets/images/2.jpg"
+                            <img src="../assets/images/F.png"
                                 class="d-block w-100 shadow-sm border-secondary-subtle border-end border-bottom border-2"
                                 alt="...">
                             <div class="text-center text-secondary">
@@ -45,7 +45,7 @@
                             </div>
                         </div>
                         <div class="w-22per">
-                            <img src="../assets/images/3.jpg"
+                            <img src="../assets/images/G.png"
                                 class="d-block w-100 shadow-sm border-secondary-subtle border-end border-bottom border-2"
                                 alt="...">
                             <div class="text-center text-secondary">
@@ -58,7 +58,7 @@
                             </div>
                         </div>
                         <div class="w-22per">
-                            <img src="../assets/images/4.jpg"
+                            <img src="../assets/images/H.png"
                                 class="d-block w-100 shadow-sm border-secondary-subtle border-end border-bottom border-2"
                                 alt="...">
                             <div class="text-center text-secondary">
@@ -74,10 +74,10 @@
                     </div>
                 </div>
                 <div class="carousel-item" data-bs-interval="2000">
-                     <div class="d-flex justify-content-between">
+                    <div class="d-flex justify-content-between">
 
                         <div class="w-22per">
-                            <img src="../assets/images/1.jpg"
+                            <img src="../assets/images/D.png"
                                 class="d-block w-100 shadow-sm border-secondary-subtle border-end border-bottom border-2"
                                 alt="...">
                             <div class="text-center text-secondary">
@@ -90,7 +90,7 @@
                             </div>
                         </div>
                         <div class="w-22per">
-                            <img src="../assets/images/2.jpg"
+                            <img src="../assets/images/F.png"
                                 class="d-block w-100 shadow-sm border-secondary-subtle border-end border-bottom border-2"
                                 alt="...">
                             <div class="text-center text-secondary">
@@ -103,7 +103,7 @@
                             </div>
                         </div>
                         <div class="w-22per">
-                            <img src="../assets/images/3.jpg"
+                            <img src="../assets/images/G.png"
                                 class="d-block w-100 shadow-sm border-secondary-subtle border-end border-bottom border-2"
                                 alt="...">
                             <div class="text-center text-secondary">
@@ -116,7 +116,7 @@
                             </div>
                         </div>
                         <div class="w-22per">
-                            <img src="../assets/images/4.jpg"
+                            <img src="../assets/images/H.png"
                                 class="d-block w-100 shadow-sm border-secondary-subtle border-end border-bottom border-2"
                                 alt="...">
                             <div class="text-center text-secondary">
@@ -132,10 +132,10 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                     <div class="d-flex justify-content-between">
+                    <div class="d-flex justify-content-between">
 
                         <div class="w-22per">
-                            <img src="../assets/images/1.jpg"
+                            <img src="../assets/images/D.png"
                                 class="d-block w-100 shadow-sm border-secondary-subtle border-end border-bottom border-2"
                                 alt="...">
                             <div class="text-center text-secondary">
@@ -148,7 +148,7 @@
                             </div>
                         </div>
                         <div class="w-22per">
-                            <img src="../assets/images/2.jpg"
+                            <img src="../assets/images/F.png"
                                 class="d-block w-100 shadow-sm border-secondary-subtle border-end border-bottom border-2"
                                 alt="...">
                             <div class="text-center text-secondary">
@@ -161,7 +161,7 @@
                             </div>
                         </div>
                         <div class="w-22per">
-                            <img src="../assets/images/3.jpg"
+                            <img src="../assets/images/G.png"
                                 class="d-block w-100 shadow-sm border-secondary-subtle border-end border-bottom border-2"
                                 alt="...">
                             <div class="text-center text-secondary">
@@ -174,7 +174,7 @@
                             </div>
                         </div>
                         <div class="w-22per">
-                            <img src="../assets/images/4.jpg"
+                            <img src="../assets/images/H.png"
                                 class="d-block w-100 shadow-sm border-secondary-subtle border-end border-bottom border-2"
                                 alt="...">
                             <div class="text-center text-secondary">
@@ -190,7 +190,7 @@
                     </div>
                 </div>
             </div>
-            <button class="button-position-left" type="button" data-bs-target="#carouselExampleDark2"
+            <button class="button-position-left" type="button" data-bs-target="#carouselExampleDark3"
                 data-bs-slide="prev">
                 <span class="">
                     <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" fill="currentColor"
@@ -202,8 +202,8 @@
                 </span>
                 <span class="visually-hidden">Previous</span>
             </button>
-            <button class=" button-position-right" type="button"
-                data-bs-target="#carouselExampleDark2" data-bs-slide="next">
+            <button class=" button-position-right" type="button" data-bs-target="#carouselExampleDark3"
+                data-bs-slide="next">
                 <span>
                     <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" fill="currentColor"
                         class="bi bi-arrow-right border border-1 border-secondary px-0 text-black bg-white p-2"
@@ -214,10 +214,6 @@
                 </span>
                 <span class="visually-hidden">Next</span>
             </button>
-        </div>
-
-        <div class="mt-5">
-            <img src="../assets/images/Untitled-1.jpg" alt="" class="w-full">
         </div>
 
     </div>
