@@ -1,0 +1,186 @@
+.font-face {
+    font-family: 'Dubai';
+    src: url('../fonts/Dubai-Regular.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+* {
+    font-family: 'Dubai', sans-serif;
+}
+
+.ul-list-type-none {
+    list-style-type: none;
+}
+
+.bg-gray {
+    background-color: rgb(231, 231, 231);
+}
+
+.w-10-per {
+    width: 10%;
+}
+
+.w-10px {
+    width: 10px;
+}
+
+.w-25px {
+    width: 25px;
+}
+
+.w-35px {
+    width: 35px;
+}
+
+.w-150px {
+    width: 150px;
+}
+
+.top-110px {
+    top: 110px;
+}
+
+.top-150px {
+    top: 150px;
+}
+
+.left-20px {
+    left: 20px;
+}
+
+.left-30px {
+    left: 30px;
+}
+
+.left-40px {
+    left: 40px;
+}
+
+.left-50px {
+    left: 50px;
+}
+
+.bottom--40px {
+    bottom: -40px;
+}
+
+.button-carousel {
+    top: 16px;
+    left: 12px;
+    color: white;
+}
+
+.w-200px {
+    width: 200px;
+}
+
+.w-300px {
+    width: 300px;
+}
+
+.w-full {
+    width: 100%;
+}
+
+.top--75px {
+    top: -75px;
+}
+
+.button-position-left {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    z-index: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 15%;
+    padding: 0;
+    color: #fff;
+    text-align: center;
+    background: 0 0;
+    border: 0;
+}
+
+.button-position-right {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    z-index: 1;
+    right: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 15%;
+    padding: 0;
+    color: #fff;
+    text-align: center;
+    background: 0 0;
+    border: 0;
+}
+
+.button-position-right1 {
+    filter: rgba(255, 255, 255, 0) !important;
+    opacity: 0 !important;
+    transition: none !important;
+}
+
+.w-22per {
+    width: 22%;
+}
+
+.w-23per {
+    width: 23%;
+}
+
+.w-24per {
+    width: 95%;
+}
+
+.min-h-full {
+    min-height: 100vh;
+}
+
+.dim {
+    width: 150px;
+    height: 150px;
+}
+
+@media (min-width: 850px) {
+    .w-24per {
+        width: 24% !important;
+    }
+}
+
+@media (min-width: 640px) {
+    .w-24per {
+        width: 32% !important;
+    }
+}
+
+@media (min-width: 450px) {
+    .w-24per {
+        width: 47%;
+    }
+}
+
+.w-45pre {
+    width: 100%;
+}
+
+@media (min-width: 450px) {
+    .w-45pre {
+        width: 45% !important;
+    }
+}
+
+.fs-16px-sp {
+    font-size: 13px;
+}
+
+@media (min-width: 450px) {
+    .fs-16px-sp {
+        font-size: 16px !important;
+    }
+}
