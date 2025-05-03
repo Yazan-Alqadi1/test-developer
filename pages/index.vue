@@ -1,18 +1,22 @@
 <template>
 
-    <div>
+    <div class="d-flex justify-content-center">
 
-        <navbar></navbar>
+        <div class="max-w-1440px">
 
-        <SlideShow class="mb-5" />
+            <navbar></navbar>
 
-        <MyJewelry class="mb-5" />
+            <SlideShow class="mb-5" />
 
-        <SpecialOffers class="mb-5" />
+            <MyJewelry class="mb-5" />
 
-        <NewArrivals />
+            <SpecialOffers class="mb-5" />
 
-        <MyFooter class="mt-5" />
+            <NewArrivals />
+
+            <MyFooter class="mt-5" />
+
+        </div>
 
     </div>
 

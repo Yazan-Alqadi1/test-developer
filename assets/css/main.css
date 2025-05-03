@@ -259,3 +259,7 @@
 .text-black-imp {
     color: black !important;
 }
+
+.max-w-1440px {
+    max-width: 1440px;
+}
