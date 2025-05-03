@@ -18,7 +18,7 @@
                 <div class="carousel-item active" data-bs-interval="2000">
                     <div class="d-flex justify-content-between">
 
-                        <div class="w-22per">
+                        <div class="w-customize d-none d-md-block">
                             <img src="../assets/images/1.jpg"
                                 class="d-block w-100 shadow-sm border-secondary-subtle border-end border-bottom border-2"
                                 alt="...">
@@ -31,7 +31,7 @@
                                 <span>800.00</span>
                             </div>
                         </div>
-                        <div class="w-22per">
+                        <div class="w-customize d-none d-md-block">
                             <img src="../assets/images/2.jpg"
                                 class="d-block w-100 shadow-sm border-secondary-subtle border-end border-bottom border-2"
                                 alt="...">
@@ -44,7 +44,7 @@
                                 <span>800.00</span>
                             </div>
                         </div>
-                        <div class="w-22per">
+                        <div class="w-customize">
                             <img src="../assets/images/3.jpg"
                                 class="d-block w-100 shadow-sm border-secondary-subtle border-end border-bottom border-2"
                                 alt="...">
@@ -57,7 +57,7 @@
                                 <span>800.00</span>
                             </div>
                         </div>
-                        <div class="w-22per">
+                        <div class="w-customize">
                             <img src="../assets/images/4.jpg"
                                 class="d-block w-100 shadow-sm border-secondary-subtle border-end border-bottom border-2"
                                 alt="...">
@@ -76,7 +76,7 @@
                 <div class="carousel-item" data-bs-interval="2000">
                      <div class="d-flex justify-content-between">
 
-                        <div class="w-22per">
+                        <div class="w-customize d-none d-md-block">
                             <img src="../assets/images/1.jpg"
                                 class="d-block w-100 shadow-sm border-secondary-subtle border-end border-bottom border-2"
                                 alt="...">
@@ -89,7 +89,7 @@
                                 <span>800.00</span>
                             </div>
                         </div>
-                        <div class="w-22per">
+                        <div class="w-customize d-none d-md-block">
                             <img src="../assets/images/2.jpg"
                                 class="d-block w-100 shadow-sm border-secondary-subtle border-end border-bottom border-2"
                                 alt="...">
@@ -102,7 +102,7 @@
                                 <span>800.00</span>
                             </div>
                         </div>
-                        <div class="w-22per">
+                        <div class="w-customize">
                             <img src="../assets/images/3.jpg"
                                 class="d-block w-100 shadow-sm border-secondary-subtle border-end border-bottom border-2"
                                 alt="...">
@@ -115,7 +115,7 @@
                                 <span>800.00</span>
                             </div>
                         </div>
-                        <div class="w-22per">
+                        <div class="w-customize">
                             <img src="../assets/images/4.jpg"
                                 class="d-block w-100 shadow-sm border-secondary-subtle border-end border-bottom border-2"
                                 alt="...">
@@ -134,7 +134,7 @@
                 <div class="carousel-item">
                      <div class="d-flex justify-content-between">
 
-                        <div class="w-22per">
+                        <div class="w-customize d-none d-md-block">
                             <img src="../assets/images/1.jpg"
                                 class="d-block w-100 shadow-sm border-secondary-subtle border-end border-bottom border-2"
                                 alt="...">
@@ -147,7 +147,7 @@
                                 <span>800.00</span>
                             </div>
                         </div>
-                        <div class="w-22per">
+                        <div class="w-customize d-none d-md-block">
                             <img src="../assets/images/2.jpg"
                                 class="d-block w-100 shadow-sm border-secondary-subtle border-end border-bottom border-2"
                                 alt="...">
@@ -160,7 +160,7 @@
                                 <span>800.00</span>
                             </div>
                         </div>
-                        <div class="w-22per">
+                        <div class="w-customize">
                             <img src="../assets/images/3.jpg"
                                 class="d-block w-100 shadow-sm border-secondary-subtle border-end border-bottom border-2"
                                 alt="...">
@@ -173,7 +173,7 @@
                                 <span>800.00</span>
                             </div>
                         </div>
-                        <div class="w-22per">
+                        <div class="w-customize">
                             <img src="../assets/images/4.jpg"
                                 class="d-block w-100 shadow-sm border-secondary-subtle border-end border-bottom border-2"
                                 alt="...">

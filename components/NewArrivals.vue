@@ -13,61 +13,65 @@
                     aria-label="Slide 2"></button>
                 <button type="button" data-bs-target="#carouselExampleDark3" data-bs-slide-to="2"
                     aria-label="Slide 3"></button>
+                <button type="button" data-bs-target="#carouselExampleDark3" data-bs-slide-to="3"
+                    aria-label="Slide 4"></button>
+                <button type="button" data-bs-target="#carouselExampleDark3" data-bs-slide-to="4"
+                    aria-label="Slide 4"></button>
             </div>
             <div class="carousel-inner px-5">
                 <div class="carousel-item active" data-bs-interval="2000">
                     <div class="d-flex justify-content-between">
 
-                        <div class="w-22per">
+                        <div class="w-customize d-none d-md-block">
                             <img src="../assets/images/D.png"
-                                class="d-block w-100 shadow-sm border-secondary-subtle border-end border-bottom border-2"
+                                class="d-block w-100"
                                 alt="...">
-                            <div class="text-center text-secondary">
+                            <div class="ms-3 fs-5 text-secondary">
                                 Lorem, ipsum dolor.
                             </div>
-                            <div class="text-center text-black fw-bold">
+                            <div class="ms-3 text-black fw-medium">
                                 <span> AED </span>
-                                <span class="text-decoration-line-through me-2"> 899.00 </span>
-                                <span>800.00</span>
+                                <span class="me-2"> 899.00 </span>
+
                             </div>
                         </div>
-                        <div class="w-22per">
+                        <div class="w-customize d-none d-md-block">
                             <img src="../assets/images/F.png"
-                                class="d-block w-100 shadow-sm border-secondary-subtle border-end border-bottom border-2"
+                                class="d-block w-100"
                                 alt="...">
-                            <div class="text-center text-secondary">
+                            <div class="ms-3 fs-5 text-secondary">
                                 Lorem, ipsum dolor.
                             </div>
-                            <div class="text-center text-black fw-bold">
+                            <div class="ms-3 text-black fw-medium">
                                 <span> AED </span>
-                                <span class="text-decoration-line-through me-2"> 899.00 </span>
-                                <span>800.00</span>
+                                <span class="me-2"> 899.00 </span>
+
                             </div>
                         </div>
-                        <div class="w-22per">
+                        <div class="w-customize">
                             <img src="../assets/images/G.png"
-                                class="d-block w-100 shadow-sm border-secondary-subtle border-end border-bottom border-2"
+                                class="d-block w-100"
                                 alt="...">
-                            <div class="text-center text-secondary">
+                            <div class="ms-3 fs-5 text-secondary">
                                 Lorem, ipsum dolor.
                             </div>
-                            <div class="text-center text-black fw-bold">
+                            <div class="ms-3 text-black fw-medium">
                                 <span> AED </span>
-                                <span class="text-decoration-line-through me-2"> 899.00 </span>
-                                <span>800.00</span>
+                                <span class="me-2"> 899.00 </span>
+
                             </div>
                         </div>
-                        <div class="w-22per">
+                        <div class="w-customize">
                             <img src="../assets/images/H.png"
-                                class="d-block w-100 shadow-sm border-secondary-subtle border-end border-bottom border-2"
+                                class="d-block w-100"
                                 alt="...">
-                            <div class="text-center text-secondary">
+                            <div class="ms-3 fs-5 text-secondary">
                                 Lorem, ipsum dolor.
                             </div>
-                            <div class="text-center text-black fw-bold">
+                            <div class="ms-3 text-black fw-medium">
                                 <span> AED </span>
-                                <span class="text-decoration-line-through me-2"> 899.00 </span>
-                                <span>800.00</span>
+                                <span class="me-2"> 899.00 </span>
+
                             </div>
                         </div>
 
@@ -76,114 +80,230 @@
                 <div class="carousel-item" data-bs-interval="2000">
                     <div class="d-flex justify-content-between">
 
-                        <div class="w-22per">
+                        <div class="w-customize d-none d-md-block">
                             <img src="../assets/images/D.png"
-                                class="d-block w-100 shadow-sm border-secondary-subtle border-end border-bottom border-2"
+                                class="d-block w-100"
                                 alt="...">
-                            <div class="text-center text-secondary">
+                            <div class="ms-3 fs-5 text-secondary">
                                 Lorem, ipsum dolor.
                             </div>
-                            <div class="text-center text-black fw-bold">
+                            <div class="ms-3 text-black fw-medium">
                                 <span> AED </span>
-                                <span class="text-decoration-line-through me-2"> 899.00 </span>
-                                <span>800.00</span>
+                                <span class="me-2"> 899.00 </span>
+
                             </div>
                         </div>
-                        <div class="w-22per">
+                        <div class="w-customize d-none d-md-block">
                             <img src="../assets/images/F.png"
-                                class="d-block w-100 shadow-sm border-secondary-subtle border-end border-bottom border-2"
+                                class="d-block w-100"
                                 alt="...">
-                            <div class="text-center text-secondary">
+                            <div class="ms-3 fs-5 text-secondary">
                                 Lorem, ipsum dolor.
                             </div>
-                            <div class="text-center text-black fw-bold">
+                            <div class="ms-3 text-black fw-medium">
                                 <span> AED </span>
-                                <span class="text-decoration-line-through me-2"> 899.00 </span>
-                                <span>800.00</span>
+                                <span class="me-2"> 899.00 </span>
+
                             </div>
                         </div>
-                        <div class="w-22per">
+                        <div class="w-customize">
                             <img src="../assets/images/G.png"
-                                class="d-block w-100 shadow-sm border-secondary-subtle border-end border-bottom border-2"
+                                class="d-block w-100"
                                 alt="...">
-                            <div class="text-center text-secondary">
+                            <div class="ms-3 fs-5 text-secondary">
                                 Lorem, ipsum dolor.
                             </div>
-                            <div class="text-center text-black fw-bold">
+                            <div class="ms-3 text-black fw-medium">
                                 <span> AED </span>
-                                <span class="text-decoration-line-through me-2"> 899.00 </span>
-                                <span>800.00</span>
+                                <span class="me-2"> 899.00 </span>
+
                             </div>
                         </div>
-                        <div class="w-22per">
+                        <div class="w-customize">
                             <img src="../assets/images/H.png"
-                                class="d-block w-100 shadow-sm border-secondary-subtle border-end border-bottom border-2"
+                                class="d-block w-100"
                                 alt="...">
-                            <div class="text-center text-secondary">
+                            <div class="ms-3 fs-5 text-secondary">
                                 Lorem, ipsum dolor.
                             </div>
-                            <div class="text-center text-black fw-bold">
+                            <div class="ms-3 text-black fw-medium">
                                 <span> AED </span>
-                                <span class="text-decoration-line-through me-2"> 899.00 </span>
-                                <span>800.00</span>
+                                <span class="me-2"> 899.00 </span>
+
                             </div>
                         </div>
 
                     </div>
                 </div>
-                <div class="carousel-item">
+                <div class="carousel-item" data-bs-interval="2000">
                     <div class="d-flex justify-content-between">
 
-                        <div class="w-22per">
+                        <div class="w-customize d-none d-md-block">
                             <img src="../assets/images/D.png"
-                                class="d-block w-100 shadow-sm border-secondary-subtle border-end border-bottom border-2"
+                                class="d-block w-100"
                                 alt="...">
-                            <div class="text-center text-secondary">
+                            <div class="ms-3 fs-5 text-secondary">
                                 Lorem, ipsum dolor.
                             </div>
-                            <div class="text-center text-black fw-bold">
+                            <div class="ms-3 text-black fw-medium">
                                 <span> AED </span>
-                                <span class="text-decoration-line-through me-2"> 899.00 </span>
-                                <span>800.00</span>
+                                <span class="me-2"> 899.00 </span>
+
                             </div>
                         </div>
-                        <div class="w-22per">
+                        <div class="w-customize d-none d-md-block">
                             <img src="../assets/images/F.png"
-                                class="d-block w-100 shadow-sm border-secondary-subtle border-end border-bottom border-2"
+                                class="d-block w-100"
                                 alt="...">
-                            <div class="text-center text-secondary">
+                            <div class="ms-3 fs-5 text-secondary">
                                 Lorem, ipsum dolor.
                             </div>
-                            <div class="text-center text-black fw-bold">
+                            <div class="ms-3 text-black fw-medium">
                                 <span> AED </span>
-                                <span class="text-decoration-line-through me-2"> 899.00 </span>
-                                <span>800.00</span>
+                                <span class="me-2"> 899.00 </span>
+
                             </div>
                         </div>
-                        <div class="w-22per">
+                        <div class="w-customize">
                             <img src="../assets/images/G.png"
-                                class="d-block w-100 shadow-sm border-secondary-subtle border-end border-bottom border-2"
+                                class="d-block w-100"
                                 alt="...">
-                            <div class="text-center text-secondary">
+                            <div class="ms-3 fs-5 text-secondary">
                                 Lorem, ipsum dolor.
                             </div>
-                            <div class="text-center text-black fw-bold">
+                            <div class="ms-3 text-black fw-medium">
                                 <span> AED </span>
-                                <span class="text-decoration-line-through me-2"> 899.00 </span>
-                                <span>800.00</span>
+                                <span class="me-2"> 899.00 </span>
+
                             </div>
                         </div>
-                        <div class="w-22per">
+                        <div class="w-customize">
                             <img src="../assets/images/H.png"
-                                class="d-block w-100 shadow-sm border-secondary-subtle border-end border-bottom border-2"
+                                class="d-block w-100"
                                 alt="...">
-                            <div class="text-center text-secondary">
+                            <div class="ms-3 fs-5 text-secondary">
                                 Lorem, ipsum dolor.
                             </div>
-                            <div class="text-center text-black fw-bold">
+                            <div class="ms-3 text-black fw-medium">
                                 <span> AED </span>
-                                <span class="text-decoration-line-through me-2"> 899.00 </span>
-                                <span>800.00</span>
+                                <span class="me-2"> 899.00 </span>
+
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="carousel-item" data-bs-interval="2000">
+                    <div class="d-flex justify-content-between">
+
+                        <div class="w-customize d-none d-md-block">
+                            <img src="../assets/images/D.png"
+                                class="d-block w-100"
+                                alt="...">
+                            <div class="ms-3 fs-5 text-secondary">
+                                Lorem, ipsum dolor.
+                            </div>
+                            <div class="ms-3 text-black fw-medium">
+                                <span> AED </span>
+                                <span class="me-2"> 899.00 </span>
+
+                            </div>
+                        </div>
+                        <div class="w-customize d-none d-md-block">
+                            <img src="../assets/images/F.png"
+                                class="d-block w-100"
+                                alt="...">
+                            <div class="ms-3 fs-5 text-secondary">
+                                Lorem, ipsum dolor.
+                            </div>
+                            <div class="ms-3 text-black fw-medium">
+                                <span> AED </span>
+                                <span class="me-2"> 899.00 </span>
+
+                            </div>
+                        </div>
+                        <div class="w-customize">
+                            <img src="../assets/images/G.png"
+                                class="d-block w-100"
+                                alt="...">
+                            <div class="ms-3 fs-5 text-secondary">
+                                Lorem, ipsum dolor.
+                            </div>
+                            <div class="ms-3 text-black fw-medium">
+                                <span> AED </span>
+                                <span class="me-2"> 899.00 </span>
+
+                            </div>
+                        </div>
+                        <div class="w-customize">
+                            <img src="../assets/images/H.png"
+                                class="d-block w-100"
+                                alt="...">
+                            <div class="ms-3 fs-5 text-secondary">
+                                Lorem, ipsum dolor.
+                            </div>
+                            <div class="ms-3 text-black fw-medium">
+                                <span> AED </span>
+                                <span class="me-2"> 899.00 </span>
+
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="carousel-item" data-bs-interval="2000">
+                    <div class="d-flex justify-content-between">
+
+                        <div class="w-customize d-none d-md-block">
+                            <img src="../assets/images/D.png"
+                                class="d-block w-100"
+                                alt="...">
+                            <div class="ms-3 fs-5 text-secondary">
+                                Lorem, ipsum dolor.
+                            </div>
+                            <div class="ms-3 text-black fw-medium">
+                                <span> AED </span>
+                                <span class="me-2"> 899.00 </span>
+
+                            </div>
+                        </div>
+                        <div class="w-customize d-none d-md-block">
+                            <img src="../assets/images/F.png"
+                                class="d-block w-100"
+                                alt="...">
+                            <div class="ms-3 fs-5 text-secondary">
+                                Lorem, ipsum dolor.
+                            </div>
+                            <div class="ms-3 text-black fw-medium">
+                                <span> AED </span>
+                                <span class="me-2"> 899.00 </span>
+
+                            </div>
+                        </div>
+                        <div class="w-customize">
+                            <img src="../assets/images/G.png"
+                                class="d-block w-100"
+                                alt="...">
+                            <div class="ms-3 fs-5 text-secondary">
+                                Lorem, ipsum dolor.
+                            </div>
+                            <div class="ms-3 text-black fw-medium">
+                                <span> AED </span>
+                                <span class="me-2"> 899.00 </span>
+
+                            </div>
+                        </div>
+                        <div class="w-customize">
+                            <img src="../assets/images/H.png"
+                                class="d-block w-100"
+                                alt="...">
+                            <div class="ms-3 fs-5 text-secondary">
+                                Lorem, ipsum dolor.
+                            </div>
+                            <div class="ms-3 text-black fw-medium">
+                                <span> AED </span>
+                                <span class="me-2"> 899.00 </span>
+
                             </div>
                         </div>
 

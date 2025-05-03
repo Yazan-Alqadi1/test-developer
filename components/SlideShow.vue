@@ -12,50 +12,56 @@
         <div class="carousel-inner">
             <div class="carousel-item active position-relative" data-bs-interval="2000">
                 <img src="../assets/images/Header.jpg" class="d-block w-100" alt="...">
-                <div class="position-absolute top-150px left-40px">
-                    <div class="fs-customize text-uppercase fw-bold mb-3"> sale </div>
-                    <div class="fs-4 text-uppercase">
-                        access a limited selection
+                <div class="position-absolute position-cus">
+                    <div class="d-none d-md-block">
+                        <div class="fs-customize text-uppercase fw-bold mb-3"> sale </div>
+                        <div class="fs-4 text-uppercase">
+                            access a limited selection
+                        </div>
+                        <div class="fs-4 text-uppercase mb-5">
+                            with up to 70% off
+                        </div>
                     </div>
-                    <div class="fs-4 text-uppercase mb-5">
-                        with up to 70% off
-                    </div>
-                    <button class="position-relative border border-0">
-                        <img src="../assets/images/icons/Bottun.png" class="w-200px">
+                    <nuxt-link to="/products/electronics" class="d-block position-relative border border-0">
+                        <img src="../assets/images/icons/Bottun.png" class="w-slide-show-cus">
                         <div class="position-absolute text-uppercase button-carousel">shop now</div>
-                    </button>
+                    </nuxt-link>
                 </div>
             </div>
             <div class="carousel-item active position-relative" data-bs-interval="2000">
                 <img src="../assets/images/Header.jpg" class="d-block w-100" alt="...">
-                <div class="position-absolute top-150px left-40px">
-                    <div class="fs-customize text-uppercase fw-bold mb-3"> sale </div>
-                    <div class="fs-4 text-uppercase">
-                        access a limited selection
+                <div class="position-absolute position-cus">
+                    <div class="d-none d-md-block">
+                        <div class="fs-customize text-uppercase fw-bold mb-3"> sale </div>
+                        <div class="fs-4 text-uppercase">
+                            access a limited selection
+                        </div>
+                        <div class="fs-4 text-uppercase mb-5">
+                            with up to 70% off
+                        </div>
                     </div>
-                    <div class="fs-4 text-uppercase mb-5">
-                        with up to 70% off
-                    </div>
-                    <button class="position-relative border border-0">
-                        <img src="../assets/images/icons/Bottun.png" class="w-200px">
+                    <nuxt-link to="/products/electronics" class="d-block position-relative border border-0">
+                        <img src="../assets/images/icons/Bottun.png" class="w-slide-show-cus">
                         <div class="position-absolute text-uppercase button-carousel">shop now</div>
-                    </button>
+                    </nuxt-link>
                 </div>
             </div>
             <div class="carousel-item active position-relative" data-bs-interval="2000">
                 <img src="../assets/images/Header.jpg" class="d-block w-100" alt="...">
-                <div class="position-absolute top-150px left-40px">
-                    <div class="fs-customize text-uppercase fw-bold mb-3"> sale </div>
-                    <div class="fs-4 text-uppercase">
-                        access a limited selection
+                <div class="position-absolute position-cus">
+                    <div class="d-none d-md-block">
+                        <div class="fs-customize text-uppercase fw-bold mb-3"> sale </div>
+                        <div class="fs-4 text-uppercase">
+                            access a limited selection
+                        </div>
+                        <div class="fs-4 text-uppercase mb-5">
+                            with up to 70% off
+                        </div>
                     </div>
-                    <div class="fs-4 text-uppercase mb-5">
-                        with up to 70% off
-                    </div>
-                    <button class="position-relative border border-0">
-                        <img src="../assets/images/icons/Bottun.png" class="w-200px">
+                    <nuxt-link to="/products/electronics" class="d-block position-relative border border-0">
+                        <img src="../assets/images/icons/Bottun.png" class="w-slide-show-cus">
                         <div class="position-absolute text-uppercase button-carousel">shop now</div>
-                    </button>
+                    </nuxt-link>
                 </div>
             </div>
         </div>

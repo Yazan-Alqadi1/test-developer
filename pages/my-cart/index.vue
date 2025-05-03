@@ -38,7 +38,7 @@
                                 {{ item.title }}
                             </nuxt-link>
                         </td>
-                        <td> {{ item.price * item.count }} </td>
+                        <td> {{ (item.price * item.count).toFixed(2) }} </td>
                         <td>
                             <div class="d-flex gap-1">
                                 <div>
@@ -76,6 +76,11 @@
                 </tbody>
             </table>
 
+            <div class="ms-2">
+                <span class="fw-bold text-3 fs-4"> Total Price: </span>
+                <span class="fs-5"> {{ totalPrice.toFixed(2) }} </span>
+            </div>
+
         </div>
 
     </div>
@@ -96,6 +101,7 @@ const state = ref({
     error: false,
     message: ''
 });
+const totalPrice = ref(0);
 
 onMounted(() => {
     console.log(store.getCart);
@@ -109,6 +115,7 @@ onMounted(() => {
             getProduct(ele.id).then(res => {
                 res.count = ele.count;
                 products.value.push(res);
+                getTotal();
             }).then(() => {
                 state.value.loading = false;
             });
@@ -196,6 +203,7 @@ function remove(item) {
     });
     products.value = products.value.filter(ele => ele.id != item.id);
     store.updateCart(newCart);
+    getTotal();
 }
 
 function updateCart() {
@@ -207,7 +215,16 @@ function updateCart() {
         })
     });
 
+    getTotal();
+
     // store.updateCart(newCart);
+}
+
+function getTotal() {
+    totalPrice.value = 0;
+    products.value.forEach((ele) => {
+        totalPrice.value += ele.price * ele.count;
+    });
 }
 
 </script>
